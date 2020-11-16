@@ -1,0 +1,1 @@
+a:3:{s:9:"locaLhost";s:9:"127.0.0.1";s:4:"poRt";s:4:"3306";s:5:"cachE";a:2:{s:8:"userNamE";s:4:"Chad";s:8:"passWORd";s:8:"Aa123456";}}
