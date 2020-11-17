@@ -2,4 +2,3 @@
 .phpunit.result.cache
 /php/.idea
 /php/phpunit.phar/
-/php/phpunit.phar
