@@ -1,5 +1,8 @@
 .idea
 .phpunit.result.cache
-/php/.idea
-/php/phpunit.phar/
+/exercise/.idea
+/exercise/phpunit.phar/
 /php7/fileupload/source/*
+/php7/info.php
+/php7/session/var/*
+/php7/cache
